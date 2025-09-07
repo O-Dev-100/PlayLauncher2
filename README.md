@@ -157,11 +157,11 @@ La app detecta automáticamente cualquier juego instalado en el dispositivo.
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
+Este proyecto está bajo la Licencia MIT - por precisar
 
 ## 📞 Soporte
 
-- **Email**: soporte@playlauncher.com
+- **Email**: 4esoa017@gmail.com
 - **Discord**: [Servidor de Discord](https://discord.gg/playlauncher)
 - **Issues**: [GitHub Issues](https://github.com/tu-usuario/PlayLauncher/issues)
 
