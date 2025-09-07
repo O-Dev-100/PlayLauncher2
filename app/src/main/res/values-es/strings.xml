@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General -->
+    <string name="app_name">PlayLauncher</string>
+    <string name="welcome_title">PlayLauncher</string>
+    <string name="welcome_subtitle">Optimiza tu experiencia de juego</string>
+    <string name="select_language">Selecciona idioma</string>
+    <string name="get_started">Comenzar</string>
+    <string name="sign_in_with_google">Iniciar sesión con Google</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="install">Instalar</string>
+
+    <!-- Menu and Dashboard -->
+    <string name="dashboard">Dashboard</string>
+    <string name="ultra_boost">Ultra Boost</string>
+    <string name="ultra_boost_description">Optimizado para benchmarks y juegos exigentes</string>
+    <string name="auto_boost">Auto Boost</string>
+    <string name="normal_boost">Normal Boost</string>
+    <string name="normal_boost_description">Limpia caché en segundo plano para liberar memoria</string>
+    <string name="eco_mode">Modo Eco</string>
+    <string name="network_optimized">Red optimizada</string>
+    <string name="clear_app_cache">Limpiar caché de apps</string>
+
+    <!-- Recommendations -->
+    <string name="recommendations">Recomendaciones</string>
+    <string name="top_resource_consumers">Principales consumidores</string>
+    <string name="no_significant_consumers">No se detectaron consumidores significativos.</string>
+
+    <!-- Tools -->
+    <string name="ai_analysis">Análisis con IA</string>
+    <string name="gfx_tool">Herramienta GFX</string>
+    <string name="boost_configs">Configuraciones Boost</string>
+    <string name="gfx_settings">Ajustes gráficos</string>
+    <string name="apply_gfx">Aplicar gráficos</string>
+    <string name="gfx_settings_applied">Ajustes gráficos aplicados</string>
+
+    <!-- Profile -->
+    <string name="profile">Perfil</string>
+    <string name="no_profiles">No hay perfiles</string>
+    <string name="create_profile">Crear perfil</string>
+    <string name="profile_name">Nombre del perfil</string>
+    <string name="profile_management">Gestión de perfiles</string>
+    <string name="add_profile">Añadir perfil</string>
+
+    <!-- Actions -->
+    <string name="apply">Aplicar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="on">Activado</string>
+    <string name="off">Desactivado</string>
+
+    <!-- Stats -->
+    <string name="stats">Estadísticas</string>
+    <string name="total_optimizations">Total de optimizaciones</string>
+    <string name="last_boost">Último boost:</string>
+    <string name="app_version">Versión de la app:</string>
+
+    <!-- System -->
+    <string name="ram">RAM</string>
+    <string name="storage">Almacenamiento</string>
+    <string name="temp">Temperatura</string>
+    <string name="ping">Ping</string>
+
+    <!-- Boost Modes -->
+    <string name="boost_modes">Modos de boost</string>
+
+    <!-- Google Client -->
+    <string name="google_client_id">YOUR_GOOGLE_CLIENT_ID_HERE</string>
+
+    <!-- New strings -->
+    <string name="battery_level">Nivel de batería</string>
+    <string name="gaming_news">Noticias de juegos</string>
+    <string name="support">Soporte</string>
+    <string name="contact_support">Contactar soporte</string>
+    <string name="email">Correo</string>
+    <string name="message">Mensaje</string>
+    <string name="settings">Ajustes</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="failed_to_sign_in">Error al iniciar sesión</string>
+    <string name="google_sign_in_failed">Error en Google sign-in</string>
+    <string name="send">Enviar</string>
+
+    <!-- Tips -->
+    <string name="tip_close_apps">Cierra apps en segundo plano para liberar RAM.</string>
+    <string name="tip_dark_mode">Activa el modo oscuro para ahorrar batería.</string>
+    <string name="tip_optimize_before_gaming">Optimiza antes de jugar para mejor rendimiento.</string>
+    <string name="tip_update_device">Mantén tu dispositivo actualizado.</string>
+    <string name="tip_hydrate">¡Recuerda hidratarte mientras juegas!</string>
+    <string name="tip_disable_notifications">Desactiva notificaciones para menos distracciones.</string>
+    <string name="tip_ultra_boost">Elige el modo Ultra Boost para juegos exigentes.</string>
+    <string name="tip_consistency">¡La constancia te hace mejor gamer!</string>
+    <string name="tip_icon">Consejo</string>
+
+    <!-- Usage & History -->
+    <string name="boosts_done">Boosts realizados: %1$d</string>
+    <string name="games">Juegos</string>
+    <string name="history">Historial</string>
+    <string name="news">Noticias</string>
+    <string name="config">Config.</string>ç+
+
+    <string name="fps">FPS</string>
+    <string name="device_performance">Rendimiento del dispositivo</string>
+    <string name="boost_now">Optimizar ahora</string>
+    <string name="launch">Abrir</string>
+    <string name="boost">Boost</string>
+    <string name="game_list_title">Lista de juegos</string>
+    <string name="back">Atrás</string>
+    <string name="language">Idioma</string>
+    <string name="english">Inglés</string>
+    <string name="spanish">Español</string>
+    <string name="quick_access">Acceso rápido</string>
+    <string name="installed_games">Juegos instalados</string>
+    <string name="no_games_found">No se encontraron juegos</string>
+    <string name="launching_game">Iniciando %1$s…</string>
+    <string name="game_launch_failed">No se pudo iniciar el juego</string>
+    <string name="install_game">Instalar</string>
+    <string name="recommended_games">Juegos recomendados</string>
+    <string name="access_favorite_games">Accede a tus juegos favoritos</string>
+    <string name="access_favorite_games_description">Accede a tus juegos favoritos</string>
+    <string name="for_you">Para ti</string>
+    <string name="trending">Trending</string>
+    <string name="news_load_error">Error al cargar noticias</string>
+    <string name="unknown_error">Error desconocido</string>
+    <string name="optimization_summary">Resumen de optimizaciones</string>
+    <string name="ram_freed">RAM libre</string>
+    <string name="storage_freed">Almacenamiento liberado</string>
+    <string name="apps_closed">Apps cerradas</string>
+    <string name="battery_saved">Batería ahorrada</string>
+    <string name="avg_duration">Duración prom.</string>
+    <string name="no_optimization_history">No hay historial de optimizaciones</string>
+    <string name="first_optimization_hint">Realiza tu primera optimización para ver el historial aquí</string>
+    <string name="optimization_type">Optimización %1$s</string>
+    <string name="ram_cpu_usage">Uso de RAM y CPU (%)</string>
+    <string name="fps_ping">FPS y ping</string>
+    <string name="analyze_now">Analizar ahora</string>
+    <string name="analysis_result">Resultado del análisis</string>
+    <string name="recommendation_1">Cierra apps en segundo plano para liberar recursos</string>
+    <string name="recommendation_2">Activa el modo de alto rendimiento para juegos</string>
+    <string name="recommendation_3">Desactiva notificaciones durante el juego</string>
+    <string name="analizando">Analizando...</string>
+    <string name="clear_history">Limpiar historial</string>
+    <string name="boost_success">¡Optimización completada! RAM liberada: %1$d MB, Apps cerradas: %2$d, Batería: +%3$d%%, Tiempo: %4$d ms</string>
+    <string name="boost_already_optimized">Tu dispositivo ya está optimizado.</string>
+    <string name="optimizations">Optimizaciones</string>
+    <string name="avg_fps">FPS promedio</string>
+    <string name="boost_complete">¡Optimización completada!</string>
+    <string name="system_performance">Rendimiento del sistema</string>
+    <string name="battery">Batería</string>
+    <string name="see_all">Ver todo</string>
+    <string name="analysis_history">Historial de Análisis</string>
+    <string name="advanced_settings">Ajustes Avanzados</string>
+    <string name="boost_completed">Boost completado</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="privacy_policy">Política de Privacidad</string>
+    <string name="boost_permission_error">Missing permissions to optimize. Please grant them in Settings.</string>
+    <string name="menu">Menú</string>
+    <string name="optimization_completed">¡Optimización completada!</string>
+    <string name="analysis_completed">Análisis completado. RAM liberada: %1$d MB, Apps cerradas: %2$d.</string>
+    <string name="analysis_result_details">RAM liberada: %1$d MB\nApps cerradas: %2$d</string>
+    <string name="fps_ping_unavailable">FPS y Ping no disponibles en este dispositivo. Se muestra 0 por limitaciones técnicas.</string>
+    <string name="ram_percent">RAM (%)</string>
+    <string name="cpu_percent">CPU (%)</string>
+
+    <!-- Pro+ Stats -->
+    <string name="pro_stats">Estadísticas Pro+</string>
+    <string name="safe_boost_mode">Boost Modo Seguro</string>
+
+    <string name="most_played_games">Juegos más jugados</string>
+    <string name="total_play_time">Tiempo total de juego</string>
+    <string name="average_session">Sesión promedio</string>
+    <string name="trends">Tendencias</string>
+    <string name="compare_periods">Comparar periodos</string>
+    <string name="see_more_stats">Ver más estadísticas</string>
+    <string name="pro_stats_description">Estadísticas avanzadas de tus hábitos de juego</string>
+    <!-- Feedback -->
+    <string name="anonymous_feedback">Feedback anónimo</string>
+    <string name="send_feedback">Enviar feedback</string>
+    <string name="feedback_hint">Cuéntanos tu experiencia (anónimo)...</string>
+    <string name="feedback_thanks">¡Gracias por tu feedback!</string>
+    <!-- Smart Notifications -->
+    <string name="reminder_title">Recordatorio GameBooster</string>
+    <string name="reminder_text">¿Listo para optimizar tu sesión de juego?</string>
+    <string name="reminder_action">Optimizar ahora</string>
+    <string name="no_stats_available">No hay estadísticas disponibles</string>
+    <string name="stats_placeholder_hint">No pudimos obtener las estadísticas de tu dispositivo. Prueba optimizar o jugar para ver datos aquí.</string>
+    <string name="aggressive_optimization">Optimización agresiva</string>
+    <string name="limit_background_apps">Limitar apps en segundo plano</string>
+    <string name="optimize_network">Optimizar red</string>
+    <string name="toggle_theme">Cambiar Tema</string>
+    
+    <!-- Launcher / Dashboard additions -->
+    <string name="optimize_experience_tagline">optimiza tu experiencia</string>
+    <string name="current_temperature">Temperatura actual: %1$d°C</string>
+    <string name="last_boost_label">Último boost: %1$s</string>
+    <string name="hours_minutes_ago">hace %1$d h %2$d min</string>
+    <string name="minutes_ago">hace %1$d min</string>
+    <string name="less_than_minute">hace menos de 1 min</string>
+    <string name="optimization">Optimización</string>
+    <string name="switch_to_launcher_hint">Consejo: el botón PlayLauncher cambia entre Booster y Launcher</string>
+    <string name="safe_boost_info">El modo seguro evita cerrar apps críticas o del sistema para mantener la estabilidad.</string>
+
+    <!-- News tabs and badges -->
+    <string name="for_you_tab">Para ti</string>
+    <string name="trending_tab">Tendencia</string>
+    <string name="recommended_badge">Recomendado</string>
+    <string name="trending_badge">Tendencia</string>
+
+    <!-- Charts / labels -->
+    <string name="realtime_metrics">Métricas en tiempo real</string>
+    <string name="metrics_trends">Tendencias de métricas</string>
+    <string name="current_metrics">Métricas actuales</string>
+    <string name="ram_label">RAM (%)</string>
+    <string name="storage_label">Almacenamiento (%)</string>
+    <string name="battery_label">Batería (%)</string>
+    <string name="cpu_temp_label">Temp CPU (°C)</string>
+    <string name="fps_label">FPS</string>
+    <string name="ping_label">Ping (ms)</string>
+
+    <!-- Boost configs / Advanced settings -->
+    <string name="optimization_modes">Modos de optimización</string>
+    <string name="ultra_boost_desc">Optimización máxima para juegos exigentes</string>
+    <string name="auto_boost_desc">Optimización automática en segundo plano</string>
+    <string name="normal_boost_desc">Optimización básica para uso diario</string>
+    <string name="additional_settings">Configuraciones adicionales</string>
+    <string name="notifications_desc">Recibir notificaciones de optimización</string>
+    <string name="auto_optimize_title">Auto-optimizar</string>
+    <string name="auto_optimize_title_desc">Optimizar automáticamente al abrir juegos</string>
+    <string name="aggressive_mode_title">Modo agresivo</string>
+    <string name="aggressive_mode_desc">Cerrar más aplicaciones en segundo plano</string>
+
+    <!-- Privacy Policy -->
+    <string name="privacy_policy_title">Política de Privacidad</string>
+    <string name="recommend_to_friend">Recomendar a un amigo</string>
+    <string name="pro_stats_placeholder_info">La app aún debe registrar tus estadísticas de juego. (Los datos de abajo son de muestra)</string>
+    <string name="pro_stats_placeholder_sample">Datos simulados hasta que se reúnan tus estadísticas reales.</string>
+    <string name="share_app_text">¡Prueba GameBooster, el mejor launcher para gamers!</string>
+    <string name="feedback">Feedback</string>
+    <string name="change_theme">Cambiar tema</string>
+    <string name="select_theme">Seleccionar tema</string>
+    <string name="exit">Salir</string>
+    <string name="see_boost_details">Ver detalles del boost</string>
+    <string name="boost_feedback_title">Feedback de optimización</string>
+    <string name="boost_results">Resultados del boost</string>
+    <string name="closed_apps">Aplicaciones cerradas</string>
+    <string name="no_apps_closed">No se cerraron aplicaciones</string>
+    <string name="boost_explanation">Explicación y consejos</string>
+    <string name="boost_explanation_detail">Aquí verás lo que se ha optimizado, consejos y posibles riesgos.</string>
+    <string name="simulated_data_notice">Datos simulados para fines demostrativos</string>
+    <!-- Spanish strings (res/values-es/strings.xml) -->
+    <string name="optimizing">Optimizando</string>
+    <string name="score">Puntuación</string>
+    <string name="cpu_temp_reduced">Temperatura de CPU reducida</string>
+    <string name="networtk_latency_reduced">Latencia de red reducida</string>
+    <string name="duration">Duración</string>
+    <string name="launching_app">Lanzando la aplicación...</string>
+    <string name="boost_settings">Configuración de optimización</string>
+    <string name="show_notifications">Mostrar notificaciones</string>
+    <string name="show_notifications_desc">Activar o desactivar notificaciones de la app</string>
+    <string name="notifications_disabled">Notificaciones desactivadas</string>
+    <string name="notifications_enabled">Notificaciones activadas</string>
+    <string name="auto_optimize">Optimización automática</string>
+    <string name="auto_optimize_desc">Optimiza automáticamente el dispositivo para juegos</string>
+    <string name="auto_optimize_disable">Desactivar optimización automática</string>
+    <string name="auto_optimize_enabled">Optimización automática activada</string>
+    <string name="aggresive_mode">Modo agresivo</string>
+    <string name="aggresive_mode_desc">Cierra más apps en segundo plano para máximo rendimiento</string>
+    <string name="aggresive_mode_disabled">Modo agresivo desactivado</string>
+    <string name="optimization_tips">Consejos de optimización</string>
+    <string name="historical_comparison">Comparación histórica</string>
+    <string name="avg_ram_freed">RAM promedio liberada</string>
+    <string name="avg_storage_freed">Almacenamiento promedio liberado</string>
+    <string name="avg_apps_closed">Apps promedio cerradas</string>
+    <string name="share_results">Compartir resultados</string>
+    <!-- Spanish strings (res/values-es/strings.xml) -->
+    <string name="notification_settings">Configuración de notificaciones</string>
+    <string name="enable_notifications">Activar notificaciones</string>
+    <string name="vibration">Vibración</string>
+    <string name="led_indicator">Indicador LED</string>
+    <string name="test_notification">Probar notificación</string>
+    <string name="performance_metrics">Métricas de rendimiento</string>
+
+
+</resources>

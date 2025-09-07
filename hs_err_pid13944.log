@@ -1,0 +1,33 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x00007ff825310dd3, pid=13944, tid=16084
+#
+# JRE version: OpenJDK Runtime Environment Temurin-21.0.8+9 (21.0.8+9) (build 21.0.8+9-LTS)
+# Java VM: OpenJDK 64-Bit Server VM Temurin-21.0.8+9 (21.0.8+9-LTS, mixed mode, sharing, tiered, compressed oops, compressed class ptrs, parallel gc, windows-amd64)
+# Problematic frame:
+# V  [jvm.dll+0x3e0dd3]
+#
+# No core dump will be written. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   https://github.com/adoptium/adoptium-support/issues
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: --add-modules=ALL-SYSTEM --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/sun.nio.fs=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Djava.import.generatesMetadataFilesAtProjectRoot=false -DDetectVMInstallationsJob.disabled=true -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx2G -Xms100m -Xlog:disable -javaagent:c:\Users\ofatt\.cursor\extensions\redhat.java-1.44.0-win32-x64\lombok\lombok-1.18.39-4050.jar c:\Users\ofatt\.cursor\extensions\redhat.java-1.44.0-win32-x64\server\plugins\org.eclipse.equinox.launcher_1.7.0.v20250519-0528.jar -configuration c:\Users\ofatt\AppData\Roaming\Cursor\User\globalStorage\redhat.java\1.44.0\config_ss_win -data c:\Users\ofatt\AppData\Roaming\Cursor\User\workspaceStorage\e9f3279742e0485ccd3bb71a84c86a61\redhat.java\ss_ws --pipe=\\.\pipe\lsp-ad3e95b87417e4228cb14786570b0915-sock
+
+Host: Intel(R) Celeron(R) CPU 4205U @ 1.80GHz, 2 cores, 3G,  Windows 11 , 64 bit Build 22621 (10.0.22621.5415)
+Time: Thu Aug 14 22:40:36 2025 Hora de verano romance elapsed time: 593.907045 seconds (0d 0h 9m 53s)
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x000001800681d130):  JavaThread "Framework stop - Equinox Container: 2a718d79-c038-4511-923f-f3406148625e"        [_thread_in_vm, id=16084, stack(0x00000014c5900000,0x00000014c5a00000) (1024K)]
+
+Stack: [0x00000014c5900000,0x00000014c5a00000],  sp=0x00000014c59fc850,  free space=1010k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x3e0dd3]
+V  [jvm.dll+0x6d2362]
+V  [jvm.dll+0x3e0b9e]
+V  [jvm.dll+0x453feb]

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459610001813",
+    "project_id": "gamebooster-4ced2",
+    "storage_bucket": "gamebooster-4ced2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459610001813:android:8d36b9faf76b304435669c",
+        "android_client_info": {
+          "package_name": "com.example.gamebooster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459610001813-r94qg51s7clqai3j7a5migme3hvr7gt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR7kRnaNdMrxIySzg-SThP4btsiF5j8Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459610001813-r94qg51s7clqai3j7a5migme3hvr7gt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
